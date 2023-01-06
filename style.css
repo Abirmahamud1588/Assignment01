@@ -75,7 +75,7 @@ line-height: 55px;
 
 margin-bottom: 28px;
 
-color: #444343;
+color: #000000;
 }
 .textsecp{
 
@@ -104,4 +104,40 @@ color: #95ff95;
 font-size: 19px;
     
 margin-right: 5px;
+}
+
+
+/* 3rd sec */
+
+.thirdsection{
+
+text-align: center;
+
+padding: 100px 0px;
+}
+.fourbox{
+
+display: flex;
+
+justify-content: space-between;
+
+gap: 20px;
+}
+.box{
+
+}
+
+.boxh{
+
+color: #151414;
+
+font-size: 30px;
+
+margin: 20px 0px;
+}
+.boxp{
+    
+color: #737272;
+    
+font-size: 25px;
 }
