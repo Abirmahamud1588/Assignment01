@@ -40,3 +40,68 @@ font-weight: 400;
 line-height: 1.6;
 }
 .btn{background: #F15B22;padding: 20px 35px;color: #fff;border-radius: 5px;border: none;font-size: 18px;font-weight: 600;margin-top: 25px;}
+
+
+
+
+/* second sec */
+
+main{
+ margin: auto;
+ padding: 130px 0px;
+ width: 1200px;
+}
+
+.secondsec{
+
+display: flex;
+
+align-items: center;
+}
+.imagesec{
+
+}
+.textsec{
+
+margin-left: 100px;
+}
+.textsech{
+
+font-weight: 700;
+
+font-size: 40px;
+
+line-height: 55px;
+
+margin-bottom: 28px;
+
+color: #444343;
+}
+.textsecp{
+
+font-size: 16px;
+
+line-height: 1.7rem;
+
+color: #444343;
+
+
+}
+ul{
+
+margin: 20px 0px;
+}
+li{
+
+list-style: none;
+
+margin-bottom: 5px;
+}
+.icons{
+    
+color: #95ff95;
+    
+font-size: 19px;
+    
+margin-right: 5px;
+}
